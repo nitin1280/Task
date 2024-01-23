@@ -4,9 +4,9 @@ A Task board is an agile project management tool designed to help visualize work
 
 Features ✨
 
-1.Drag & drop tasks
+1.CRUD for tasks, labels & columns
 
-2.CRUD for tasks, labels & columns
+2.Drag & drop tasks 
 
 3.Edit task descriptions
 
@@ -35,7 +35,7 @@ npm run install
 Step 3 - Run an app
 Once the dependencies are installed, you can run the app:
 
-cd kanban-board
+cd userBord
 
 yarn start
 
